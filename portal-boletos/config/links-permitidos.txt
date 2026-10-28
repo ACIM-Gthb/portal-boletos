@@ -1,0 +1,10 @@
+# Links permitidos na página (um prefixo por linha).
+# Qualquer link http/https em public/ que não comece por um destes prefixos BLOQUEIA a alteração.
+# Este arquivo só pode ser alterado com aprovação do responsável (ver .github/CODEOWNERS).
+#
+# A PRIMEIRA linha válida é o PORTAL OFICIAL: a página precisa conter esse link.
+# Troque pelo endereço oficial confirmado com a Supera.
+https://portal.exemplo-supera.com.br/
+
+# Contato do financeiro (WhatsApp)
+https://wa.me/
