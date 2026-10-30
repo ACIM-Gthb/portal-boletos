@@ -1,10 +1,10 @@
 # Toda alteração exige aprovação do responsável
-*                     @USUARIO-APROVADOR
+*                         @projetos-prog
 
 # Arquivos críticos: link do botão, lista de links, verificação e deploy
-/public/index.html    @USUARIO-APROVADOR
-/config/              @USUARIO-APROVADOR
-/scripts/             @USUARIO-APROVADOR
-/.github/             @USUARIO-APROVADOR
-/Dockerfile           @USUARIO-APROVADOR
-/nginx.conf           @USUARIO-APROVADOR
+/public/                  @projetos-prog
+/config/                  @projetos-prog
+/scripts/                 @projetos-prog
+/.github/                 @projetos-prog
+/Dockerfile               @projetos-prog
+/nginx.conf               @projetos-prog
